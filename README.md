@@ -1,2 +1,6 @@
-# dh-aktuell
-Aktuelle Perspektiven und Herausforderungen der Digital Humanities
+Computerphilologie
+==================
+
+Kleiner Überblick über einige Themen und Tools der Computerphilologie.
+
+* http://christofs.github.io/computerphilologie/#/
